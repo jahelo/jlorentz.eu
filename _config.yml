@@ -1,4 +1,57 @@
-name: jlorentz.eu, Jan-Hendrik Lorentz
-theme: jekyll-theme-architect
-permalink: /blog/:year/:month/:day/:title
-markdown: kramdown
+#
+# Theme    : Hyde
+# Version  : 1.0
+# Author   : beingeorge
+# Support  : hello@beingeorge.com
+# 
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+#
+# Refer Jekyll Documentation for more info. https://jekyllrb.com/docs/
+#
+#
+# Site title
+title: "jlorentz.eu"
+#
+
+# A description of your site
+description: "Dieser Blog handelt von diversen Techniken und Methoden für Coaching, Mitarbeiterführung, Organisationsentwicklung und Softwareentwicklung."
+
+# The subpath of your site
+# Leave baseurl blank when you run it in local
+baseurl:
+
+
+# In this theme static CSS is not used. 
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "https://jlorentz.eu"
+
+# Site navigation - list your url with text and the url (Path)
+navigation:
+- text: Blog
+  url: /
+- text: Über mich
+  url: /about
+
+
+
+
+# Author Info
+author_name: "Jan-Hendrik Lorentz"
+author_bio: "Als Product Owner und Projektmanager interessiere ich mich für Mitarbeiterentwicklung und Coaching sowie für die neuesten Technologien."
+author_url:  "jlorentz.eu"
+author_image: author.jpg
+
+# Social links
+twitter_username: "@jan_lorentz"
+#linkedin_username: "username"
+xing_username: "JanHendrik_Lorentz"
+
+
+paginate: 5
+paginate_path: '/pages/page:num/'
+plugins: [jekyll-paginate]
+

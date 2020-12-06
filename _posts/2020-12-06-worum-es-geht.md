@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Worum es bei diesem Blog geht"
+title:  "Worum es bei diesem Blog geht"
+description: "Nikolaustag 2020, das Jahr der Corona-Virus-Pandemie. In diesem Jahr..."
 date: 2020-12-06
+banner_preview: gedanken-preview.jpg
+banner_image: gedanken.jpg
+category: Gedanken
+read_time: 2min read
+tags: [Gedanken]
 ---
 
 Nikolaustag 2020, das Jahr der Corona-Virus-Pandemie. In diesem Jahr hat sich einiges verändert, wie nachhaltig die Veränderungen sind, dass wissen wir sicherlich erst in einigen Jahren und doch ist eines schon Gewissheit: Das Jahr 2020 wird in Erinnerung bleiben und sicherlich auch Grundlage für die ein oder andere bleibende Veränderung sein.
