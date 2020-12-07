@@ -14,6 +14,6 @@ Nikolaustag 2020, das Jahr der Corona-Virus-Pandemie. In diesem Jahr hat sich ei
 
 Nun aber zu diesem Blog.
 
-Warum noch ein Blog im Internet? Ziel dieses Blogs ist es für mich selbst einen kleinen Hort des Wissens aufzubauen, es wird sowohl um alle Themen gehen, die mich so im Alltag beschäftigen und für mich einen gewissen Wert besitzen. Das können technische Themen, aber auch um Coaching Methoden, Teamentwicklung und Organisationsentwicklung sein, vielleicht kommt auch mal was aus dem Bereich agile Softwareentwicklung dazu. Ich plane will mich hier nicht zu sehr festlegen.
+Warum noch ein Blog im Internet? Ziel dieses Blogs ist es für mich selbst einen kleinen Hort des Wissens aufzubauen, es wird um alle Themen gehen, die mich so im Alltag beschäftigen und für mich einen gewissen Wert besitzen. Das können technische Themen, aber auch Coaching-Methoden, Teamentwicklung und Organisationsentwicklung sein, vielleicht kommt auch mal was aus dem Bereich agile Softwareentwicklung dazu. Ich plane mich hier nicht zu sehr festlegen.
 
 Falls du beim Surfen im Netz auf diesen Blog gestoßen bist und für dich etwas Interessantes oder gar Hilfreiches dabei war, dann freue ich mich, wenn du mir bei Twitter (@jan_lorentz) einen kurzen Text schreibst.
