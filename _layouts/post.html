@@ -18,13 +18,16 @@ layout: default
                                     <span>{{page.read_time}}</span>
                                 </span>
                                 </li>
-                                <li>Published <span datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</span></li>
+                                <li>Veröffentlicht am {{ page.date | date: "%-d.%m.%Y" }}</li>
                             </ul>
                         </div>
 
                         {% if page.banner_image %}
                         <div class="blog-thumbnail">
                             <img src="{{ "/assets/images/" | append: page.banner_image | prepend: site.baseurl }}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
+                            {% if page.banner_image_citation %}
+                                <small>{{page.banner_image_citation}}</small>
+                            {% endif %}
                         </div>
                         {% endif %}
                         
