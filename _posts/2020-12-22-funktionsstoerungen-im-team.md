@@ -10,7 +10,7 @@ category: Team
 read_time: 5min
 tags: [Team, Theorie, Methoden, Teamentwicklung, Analyse]
 ---
-# Einführung
+## Einführung
 Ein Team bzw. die Zusammenarbeit im Team kann auf verschiedenen Ebenen gestört sein. Dies kann nicht nur zu geringerer Produktivität führen, sondern ebenfalls zu großer unzufriedenheit bei allen Beteiligten.
 
 Ich habe durch den tollen [Udemy-Kurs](https://www.udemy.com/course/teambuilding-teamarbeit-workhacks/) von [Axel Rittershaus](https://www.targetter.de/ueber-uns/ueber-axel-rittershaus/) ein paar interessante Informationen über verschiedene Funktionsstörungen im Team erhalten. Auf seinem Blog gibt es auch einen schönen [Artikel](https://www.targetter.de/team-kaputt-test/), welcher das Thema ebenfalls behandelt.
