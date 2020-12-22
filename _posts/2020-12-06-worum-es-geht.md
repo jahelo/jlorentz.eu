@@ -6,7 +6,7 @@ date: 2020-12-06
 banner_preview: gedanken-preview.jpg
 banner_image: gedanken.jpg
 category: Gedanken
-read_time: 2min read
+read_time: 2min
 tags: [Gedanken]
 ---
 
