@@ -3,9 +3,8 @@ layout: post
 title:  "Delegation Poker"
 description: ""
 date: 2020-12-23
-banner_preview: team.jpg
-banner_image: team.jpg
-banner_image_citation: Photo by fauxels from Pexels
+banner_preview: poker.jpeg
+banner_image: poker.jpeg
 category: Methoden
 read_time: 5min
 tags: [Team, Theorie, Methoden, Klarheit]
