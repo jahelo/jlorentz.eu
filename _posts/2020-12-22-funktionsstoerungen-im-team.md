@@ -3,8 +3,8 @@ layout: post
 title:  "Funktionsstörungen im Team"
 description: "Ein Team bzw. die Zusammenarbeit im Team kann auf verschiedenen Ebenen gestört sein..."
 date: 2020-12-22
-banner_preview: team.jpg
-banner_image: team.jpg
+banner_preview: team.webp
+banner_image: team.webp
 banner_image_citation: Photo by fauxels from Pexels
 category: Team
 read_time: 5min

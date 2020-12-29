@@ -3,8 +3,8 @@ layout: post
 title:  "Worum es bei diesem Blog geht"
 description: "Nikolaustag 2020, das Jahr der Corona-Virus-Pandemie. In diesem Jahr..."
 date: 2020-12-06
-banner_preview: gedanken-preview.jpg
-banner_image: gedanken.jpg
+banner_preview: gedanken-preview.webp
+banner_image: gedanken.webp
 category: Gedanken
 read_time: 2min
 tags: [Gedanken]
