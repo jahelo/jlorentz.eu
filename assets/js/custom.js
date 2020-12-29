@@ -7,7 +7,7 @@
 /* ---------------------------------------------- */
 
 
-$('.Preloader').delay(1050).fadeOut('slow');
+$('.Preloader').delay(300).fadeOut('slow');
 
 /* ---------------------------------------------- /*
 * Animated scrolling / Scroll Up
